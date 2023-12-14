@@ -20,7 +20,7 @@ export const achievementData = {
             title : 'Scrum Foundation Professional Certificate SFPC',
             details : 'Certi Prof',
             date : 'September, 2022',
-            field : 'UX',
+            field : 'Agile Methodologies',
             image : scrumImage
         },
         {

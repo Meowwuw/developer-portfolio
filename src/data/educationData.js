@@ -17,7 +17,7 @@ export const educationData = [
         id: 3,
         institution: 'MPD Consulting SAC',
         course: 'Program Bootcamp ',
-        startYear: 'Feb 2023',
-        endYear: 'Octubre 2022'
+        startYear: 'Octubre 2022',
+        endYear: 'Feb 2023'
     },
 ]
