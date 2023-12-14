@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
-        endYear: '2018'
+        institution: 'Laboratoria',
+        course: 'Frontend Developer',
+        startYear: 'Feb 2023',
+        endYear: 'June 2023'
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
-        startYear: '2019',
-        endYear: '2021'
+        institution: 'Senati',
+        course: ' Ingeniería de Software e IA',
+        startYear: 'Jul 2019',
+        endYear: 'Jul 2023'
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
-        startYear: '2021',
-        endYear: 'Present'
+        institution: 'MPD Consulting SAC',
+        course: 'Program Bootcamp ',
+        startYear: 'Feb 2023',
+        endYear: 'Octubre 2022'
     },
 ]
