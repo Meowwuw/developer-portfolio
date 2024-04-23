@@ -13,6 +13,7 @@ import movies from '../assets/png/movies.png';
 import cientifica from '../assets/png/cientifica.png';
 import sanke from '../assets/png/Sanke.jpg';
 import MDP from '../assets/png/MDP.jpg';
+import radioverso from '../assets/png/Radioverso.png';
 
 
 
@@ -21,7 +22,7 @@ export const projectsData = [
         id: 1,
         projectName: 'Data Lovers | Pokemon Web Site',
         projectDesc: 'A website where you can search and discover information about your favorite Pokémon and learn more about the different types of Pokémon that exist.',
-        tags: ['SPA', 'HTML' ,'CSS', 'Javascript'],
+        tags: ['SPA', 'HTML' ,'CSS', 'Javascript', 'Responsive Design'],
         code: 'https://github.com/Meowwuw/Datalovers-Pokedex/tree/main/src',
         demo: 'https://meowwuw.github.io/Datalovers-Pokedex/src/index.html',
         image: pokemon
@@ -30,7 +31,7 @@ export const projectsData = [
         id: 2,
         projectName: 'Social Network | Patitas',
         projectDesc: 'Social network developed in SPA format, you can register, log in, post, edit and like.',
-        tags: ['HTML', 'CSS','Javascript','Firebase'],
+        tags: ['HTML', 'CSS','Javascript','Firebase', 'Responsive Design'],
         code: 'https://github.com/adrieli2307/DEV005-social-network/tree/main',
         demo: 'https://patitas-91318.web.app/',
         image: patitas
@@ -48,7 +49,7 @@ export const projectsData = [
         id: 4,
         projectName: 'Cientifica Peruana | App',
         projectDesc: 'Application built for the Cientifica Peruana, for the private use of its distributors',
-        tags: ['Angular', 'Css', 'Dynamo DB', 'Serveless', 'AWS S3'],
+        tags: ['Angular', 'Css', 'Dynamo DB', 'Serveless', 'AWS S3', 'Responsive Design'],
         code: 'https://www.figma.com/file/sIHQQZ5AC7Wp1igOMRYgyl/Cient%C3%ADfica-Mockup?type=design&node-id=0%3A1&mode=design&t=G8jzHEUHgexUYtrq-1',
         demo: 'https://cientificaperuana.com/',
         image: cientifica
@@ -66,9 +67,18 @@ export const projectsData = [
         id: 6,
         projectName: 'MDP | Ticketing Prototype',
         projectDesc: 'Prototyping in figma for ticketing incident attention',
-        tags: ['Figma', 'UX', 'Prototypes'],
+        tags: ['Figma', 'UX', 'Prototypes', 'Responsive Design'],
         demo: 'https://www.figma.com/file/iWi6LocuGMq7Vy7RCl2gvo/MDP?type=design&node-id=0-1&mode=design&t=HLQdzt2J4nnOcnWD-0',
         image: MDP
+    },
+
+    {
+        id: 7,
+        projectName: 'Radioverso',
+        projectDesc: 'Website created with react for radioverso, a company that seeks to spread local music',
+        tags: ['React', 'UX', 'Responsive Design'],
+        demo: 'https://radioverso.com/',
+        image: radioverso
     },
     
 ]
