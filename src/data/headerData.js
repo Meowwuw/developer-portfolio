@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/resumen.pdf'
 
 export const headerData = {
     name: 'Magenta Paredes',
